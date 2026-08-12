@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="01" tvg-logo="http://10.91.91.91/images/ekushey.jpg", 01. EKUSHEY TV
+http://10.91.91.91:8080/52/index.m3u8
+
+#EXTINF:-1 tvg-chno="02" tvg-logo="http://10.91.91.91/images/jamunatv.jpg", 02. JAMUNA TV
+http://10.91.91.91:8080/01/index.m3u8
+
+#EXTINF:-1 tvg-chno="03" tvg-logo="http://10.91.91.91/images/somoy.jpg", 03. SOMOY TV
+http://10.91.91.91:8080/02/index.m3u8
+
+#EXTINF:-1 tvg-chno="04" tvg-logo="http://10.91.91.91/images/ekattortv.jpg", 04. EKATTOR TV
+http://10.91.91.91:8080/03/index.m3u8
+
+#EXTINF:-1 tvg-chno="05" tvg-logo="http://10.91.91.91/images/channel24.jpg", 05. CHANNEL 24
+http://10.91.91.91:8080/04/index.m3u8
+
+#EXTINF:-1 tvg-chno="06" tvg-logo="http://10.91.91.91/images/independenttv.jpg", 06. INDEPENDENT TV
+http://10.91.91.91:8080/05/index.m3u8
+
+#EXTINF:-1 tvg-chno="07" tvg-logo="http://10.91.91.91/images/atnnews
+.jpg", 07. ATN TV
+http://10.91.91.91:8080/06/index.m3u8
+
+#EXTINF:-1 tvg-chno="08" tvg-logo="http://10.91.91.91/images/news24.jpg", 08. NEWS 24 TV
+http://10.91.91.91:8080/07/index.m3u8
+
+#EXTINF:-1 tvg-chno="09" tvg-logo="http://10.91.91.91/images/gazi.jpg", 09. GTV TV
+http://10.91.91.91:8080/11/index.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://10.91.91.91/images/deeptotv.jpg", 10. DEEPTO TV
+http://10.91.91.91:8080/40/index.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="http://10.91.91.91/images/channeli.jpg", 11. CHANNEL I
+http://10.91.91.91:8080/41/index.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-logo="http://10.91.91.91/images/banglavision.jpg", 12. BANGLA VISION
+http://10.91.91.91:8080/47/index.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="http://10.91.91.91/images/ntv.jpg", 13. NTV TV
+http://10.91.91.91:8080/48/index.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="http://10.91.91.91/images/maasranga.jpg", 14. MASSRANGA TV
+http://10.91.91.91:8080/53/index.m3u8
